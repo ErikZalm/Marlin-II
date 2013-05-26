@@ -1,0 +1,6 @@
+[submodule "ext/ChibiOS-GFX"]
+	path = ext/ChibiOS-GFX
+	url = https://github.com/Tectu/ChibiOS-GFX.git
+[submodule "ext/ChibiOS"]
+	path = ext/ChibiOS
+	url = https://github.com/mabl/ChibiOS.git
